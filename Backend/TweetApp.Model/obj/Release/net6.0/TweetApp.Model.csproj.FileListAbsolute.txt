@@ -1,0 +1,12 @@
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\bin\Release\net6.0\TweetApp.Model.deps.json
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\bin\Release\net6.0\TweetApp.Model.dll
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\bin\Release\net6.0\TweetApp.Model.pdb
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.csproj.AssemblyReference.cache
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.AssemblyInfoInputs.cache
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.AssemblyInfo.cs
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.csproj.CoreCompileInputs.cache
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.dll
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\refint\TweetApp.Model.dll
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\TweetApp.Model.pdb
+F:\TweetApp\TweetApp\Backend\TweetApp.Model\obj\Release\net6.0\ref\TweetApp.Model.dll

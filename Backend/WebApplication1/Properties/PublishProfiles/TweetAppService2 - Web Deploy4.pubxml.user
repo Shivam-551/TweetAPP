@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuC429C9/NUupuVXm0NCdvwAAAAACAAAAAAAQZgAAAAEAACAAAACm5oOyIxcf77U+0tqXoEeLITIZNi8anaALkOnNz1WqLwAAAAAOgAAAAAIAACAAAACt4Guj0WAOZbGoFoGLtcNYjzNbWQToEVTK4It7FuL03YAAAABQ6veNAhi9f49ay15w5NCYAD12eof9SLjCH7gA+MV3PR/SCBlzqSeGpEGUfMhYCt5VaVhRMLfUTMlS1GPeT4ExPdobmxL7H7GvpBQUezHL9kFZIGw2+Husnvregj8l9mzUD7qKaf7MHPXV+znAhia8ykPReGyX+S+4nizyC2uXn0AAAAB9JKnZPnybemCOms+Mcj2R4xZ/C3qxL2+ONbQgw58K/KgmDhLIsvli0KbjaDEK8Zz4poM9KGGCX1tyctW7QhK4</EncryptedPassword>
+    <History>True|2022-09-16T11:14:25.8573166Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:tweetapp1dbserver.database.windows.net,1433%3bInitial Catalog=WebApplication1_db%3bUser Id=Shivam%40tweetapp1dbserver%3bPassword=TweetApp12345</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="TweetApp.Repository.Contexts.ApplicationDbContext">
+      <Value>Data Source=tcp:tweetapp1dbserver.database.windows.net,1433%3bInitial Catalog=WebApplication1_db%3bUser Id=Shivam%40tweetapp1dbserver%3bPassword=TweetApp12345</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+.box2{
+    background-color: #282828;;
+    border:5px solid white ;
+    border-radius: 3rem;
+    min-width: 166vh;
+    min-height: 50vh;
+    box-shadow: 0px 0px 100px 17px rgb(33,37,41);
+  
+  }
+  .pad-top-left-2rem{
+    padding-top: 2rem;
+    text-align: left;
+  }

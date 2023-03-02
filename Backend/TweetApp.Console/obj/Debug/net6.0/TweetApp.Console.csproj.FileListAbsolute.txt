@@ -1,0 +1,15 @@
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\bin\Debug\net6.0\TweetApp.Console.exe
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\bin\Debug\net6.0\TweetApp.Console.deps.json
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\bin\Debug\net6.0\TweetApp.Console.runtimeconfig.json
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\bin\Debug\net6.0\TweetApp.Console.dll
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\bin\Debug\net6.0\TweetApp.Console.pdb
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.csproj.AssemblyReference.cache
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.AssemblyInfoInputs.cache
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.AssemblyInfo.cs
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.csproj.CoreCompileInputs.cache
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.dll
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\refint\TweetApp.Console.dll
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.pdb
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\TweetApp.Console.genruntimeconfig.cache
+C:\PracticeJobs\Development\UseCases\TweetApp\TweetApp.Console\obj\Debug\net6.0\ref\TweetApp.Console.dll
